@@ -1,4 +1,4 @@
-### Hi there 👋&langs_count=8
+### Hi there 👋
 
 <!--
 **AdeepKrishnaKeelar/AdeepKrishnaKeelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
