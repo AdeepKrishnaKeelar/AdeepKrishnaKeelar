@@ -6,6 +6,7 @@
 * Programming Languages - C, C++, Python, PHP.
 * Computer Architecture, Operating Systems.
 * Theoretical Computer Science - Logic, Data Structures, Algorithms, Automata Theory.
+* Database Management Systems - MySQL 
 * Electronics - Analog and Digital Electronics, Microprocessors, IoT based applications.
 * Microcontrollers and SoCs - Arduino, Raspberry Pi, ESP32.
 * Electrical - Power Generation and Transmission, Electrical Machines.
