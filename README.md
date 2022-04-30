@@ -3,7 +3,7 @@
 ## Forever Learning, Enjoying and Wondering... Life provides it all and am grateful for it! 😄
 
 ## - 🔭 I enjoy and learn - ##
-* Programming Languages - C, C++, Python, PHP.
+* Programming Languages - C, C++, Python, Java.
 * Computer Architecture, Operating Systems.
 * Theoretical Computer Science - Logic, Data Structures, Algorithms, Automata Theory.
 * Database Management Systems - MySQL 
@@ -18,6 +18,10 @@
 ## - 📫 How to reach me: ...
 * [Facebook]()
 * [LinkedIn]()
+------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------
+- 🌱 I’m currently learning - Objective-C, Rust,.
 ------------------------------------------------------------------------------------------
 
 
