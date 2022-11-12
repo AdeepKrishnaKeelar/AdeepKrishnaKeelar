@@ -10,10 +10,6 @@
 * Electronics - Analog and Digital Electronics, Microprocessors, IoT based applications.
 * Microcontrollers and SoCs - Arduino, Raspberry Pi, ESP32.
 * Electrical - Power Generation and Transmission, Electrical Machines.
-* Competitive Coding.
-* Automobiles.
-* Creative Writing.
-* Music - Guitar and more!
 ------------------------------------------------------------------------------------------
 ## - 📫 How to reach me: ...
 * [Facebook]()
@@ -21,7 +17,7 @@
 ------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------
-- 🌱 I’m currently learning - Objective-C, Rust,.
+- 🌱 I’m currently learning - Objective-C, Rust, Columnar Databases.
 ------------------------------------------------------------------------------------------
 
 
